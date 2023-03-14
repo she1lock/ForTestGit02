@@ -14,4 +14,8 @@ public class TestMyGit {
     public void testGit(){
 
     }
+    @Test
+    public void testGit02(){
+
+    }
 }
