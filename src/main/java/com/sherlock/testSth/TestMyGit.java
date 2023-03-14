@@ -22,6 +22,6 @@ public class TestMyGit {
     }
     @Test
     public void testGit02(){
-
+        System.out.println("1223");
     }
 }
