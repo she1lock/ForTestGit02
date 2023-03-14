@@ -12,7 +12,7 @@ public class TestMyGit {
 
     @Test
     public void testGit(){
-
+        System.out.println(1231);
     }
 
     @Test
